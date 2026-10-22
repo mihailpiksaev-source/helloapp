@@ -3,6 +3,8 @@
     Console.WriteLine("hello everyone");
 }
 PrintHello();
+PrintHelloBlack();
+PrintHelloWhite();
 
 static void PrintHelloWhite()
 {
