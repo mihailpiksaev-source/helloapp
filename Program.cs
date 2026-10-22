@@ -1,6 +1,6 @@
 ﻿static void PrintHello()
 {
-    Console.WriteLine("hello");
+    Console.WriteLine("hello everyone");
 }
 PrintHello();
 
